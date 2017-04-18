@@ -1,0 +1,33 @@
+
+h1 {
+font-family: 'Lobster', cursive;
+}
+p {
+	font-size:24px;
+	font-family: 'Rubik Mono One', sans-serif;
+}
+
+
+body {
+	background-color: blue;
+}
+
+#container {
+	display: block;
+	margin: auto;
+	width: 800px;
+}
+
+#circus {
+	display: block;
+	margin: auto;
+	margin-bottom: 50px;
+	width: 300px;
+}
+
+#elephant {
+	display: block;
+	margin: auto;
+	margin-bottom: 50px;
+	width: 300px;
+}
